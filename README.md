@@ -1,5 +1,7 @@
 # tampermonkey-scripts
 
+If you have Tampermonkey installed, to install a script you just go to the one you want and click the `Raw` button.
+
 ## **Arcane-center**
 
 ### Prominent color border
